@@ -12,6 +12,7 @@ I'm a Computer Science student interested in building things with C++ and learni
 
 ## 🚀 Projects
 
+* **[Candy Crush Clone](https://github.com/ayeshad7816-sketch/candy-crush-sfml_)** – A 2D match-three puzzle game built in C++ using SFML.
 I'm currently building and uploading projects as I learn, including C++ projects, data structure implementations, and small games.
 
 ## 📚 Currently working on
