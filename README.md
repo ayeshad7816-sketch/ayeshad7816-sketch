@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ayesha 👋
 
-<!--
-**ayeshad7816-sketch/ayeshad7816-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in building things with C++ and learning through hands-on projects.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- SFML
+- Git & GitHub
+
+## 🚀 Projects
+
+I'm currently building and uploading projects as I learn, including C++ projects, data structure implementations, and small games.
+
+## 📚 Currently working on
+
+- Strengthening my C++ problem-solving skills
+- Learning data structures
+- Building small projects
+- Improving my understanding of Git and GitHub
+
+## 🌱 My approach
+
+I believe in learning by building, making mistakes, fixing them, and gradually taking on more challenging projects.
